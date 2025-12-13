@@ -16,7 +16,7 @@ h2 {
 
 /* ❌ BUG: This width causes content overlap on mobile devices */
 .container {
-  width: 120%;
+  width: 95%;
   background-color: #eaeaea;
   padding: 15px;
   border-radius: 8px;
